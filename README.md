@@ -2,6 +2,6 @@
 
 How to run:<br />
 -> npm install <br />
-->gulp compile-ts<br />
+->tsc<br />
 ->node server.js
 
